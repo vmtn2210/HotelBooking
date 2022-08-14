@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Context path="/MVC2_SE151446">
+    <Resource name="SE1614D5" type="javax.sql.DataSource" auth="Container" 
+            driverClassName="com.microsoft.sqlserver.jdbc.SQLServerDriver"
+            url = "jdbc:sqlserver://localhost:1433;databaseName=NguyenSever;instanceName=SQL2019"
+            username="sa" password="khoinguyen712"  />
+</Context>
